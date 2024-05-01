@@ -20,3 +20,10 @@
 
 - Authenticate and verify a user through token.
 - Authenticate and verify admin through role.
+
+## .env file
+PORT=port number
+
+MONGOURL=Mongo url and database name
+
+PRIVATE_KEY= Your private key
